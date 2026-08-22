@@ -33,6 +33,12 @@ OBS 的播放資訊只在本機電腦內傳送。
 Utawakui 是協助整理與呈現內容的工具，不附帶商用歌曲、歌詞或相關授權。請使用
 你有權使用的內容，並遵循適用於實際用途及發布平台的規範。
 
+### 軟體授權
+
+Utawakui 是可免費使用的專有軟體，允許用於個人、內容創作，以及營利直播與錄製。
+軟體與安裝檔不得重新散布、轉售、修改或冒充官方版本。完整條款請見
+[Utawakui 專有軟體使用授權](LICENSE.md)。
+
 ### 發行與下載
 
 正式版本、更新檔與版本說明統一發布於
@@ -82,6 +88,13 @@ Playback information sent to OBS stays on the same computer.
 Utawakui helps organize and present content. It does not include commercial
 songs, lyrics, or licenses. Use content you are authorized to use and follow
 the requirements that apply to your intended use and publishing platforms.
+
+### Software License
+
+Utawakui is proprietary software that may be used free of charge for personal
+use, content creation, and monetized live streams or recordings. The software
+and installer may not be redistributed, resold, modified, or presented as an
+official release. See the full [Utawakui Proprietary Software License](LICENSE.md).
 
 ### Releases and Downloads
 
