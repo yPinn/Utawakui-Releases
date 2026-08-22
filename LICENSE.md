@@ -1,6 +1,6 @@
 # Utawakui 專有軟體使用授權
 
-生效日期：2026-08-22  
+生效日期：2026-08-22
 Copyright (c) 2026 llazyPilot Studio. All rights reserved.
 
 本授權適用於 Utawakui 應用程式及其由 llazyPilot Studio 提供的專有材料。免費使用
@@ -41,7 +41,7 @@ llazyPilot Studio 不對因使用或無法使用本軟體所生的間接、附�
 
 ## English: Utawakui Proprietary Software License
 
-Effective date: August 22, 2026  
+Effective date: August 22, 2026
 Copyright (c) 2026 llazyPilot Studio. All rights reserved.
 
 This license applies to the Utawakui application and proprietary materials
